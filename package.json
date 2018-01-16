@@ -1,8 +1,9 @@
 {
 	"name": "define-binding",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Define a property which looks normal but is a binding to another object's field",
 	"main": "define-binding.js",
+	"module": "define-binding.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},

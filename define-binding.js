@@ -10,6 +10,7 @@ function defineBinding( dest, slot, src, optionalSrcSlot, propOptions){
 		},
 		...propOptions
 	})
+	return dest
 }
 export default assignDefaults
 export assignDefaults
