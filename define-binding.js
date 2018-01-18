@@ -12,5 +12,5 @@ function defineBinding( dest, slot, src, optionalSrcSlot, propOptions){
 	})
 	return dest
 }
-export default assignDefaults
-export assignDefaults
+export default defineBinding
+export {defineBinding}
