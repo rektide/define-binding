@@ -1,6 +1,6 @@
 {
 	"name": "define-binding",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Define a property which looks normal but is a binding to another object's field",
 	"main": "define-binding.js",
 	"module": "define-binding.js",
